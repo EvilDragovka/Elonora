@@ -1,3 +1,7 @@
 public dog{
 asdfldfo
+
+	public toString(){
+		return "bark bark";
+	}
 }
